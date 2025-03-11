@@ -5,7 +5,7 @@
 ---
 
 ## **📅 Event Overview**
-**CodePath Circles** is a monthly virtual meetup designed to connect students, alumni, and industry professionals across different technical disciplines. Each event consists of speaker-led breakout sessions covering a variety of topics in tech, career development, and emerging trends.
+**CodePath Circles** are a monthly virtual meetup designed to connect students, alumni, and industry professionals across different technical disciplines. Each event consists of speaker-led breakout sessions covering a variety of topics in tech, career development, and emerging trends.
 
 🔹 **Who can join?**  
 Anyone in the CodePath community interested in tech learning, networking, and mentorship.  
