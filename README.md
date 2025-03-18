@@ -27,15 +27,15 @@ Check the agenda below and RSVP using [this form](https://share.hsforms.com/1IBh
 
 | Room (Time Slot) | Speaker Name | Circle Topic | LinkedIn | GitHub |
 |-------------|----------|--------------|----------|--------|
-| A (6:15 - 6:50) | TBD | TBD | [🔗](#) | [🔗](#) |
-| B (6:15 - 6:50) | TBD | TBD | [🔗](#) | [🔗](#) |
-| C (6:15 - 6:50) | Francis Regalado | TBD | [🔗](#) | [🔗](#) |
-| A (6:50 - 7:25) | TBD | TBD | [🔗](#) | [🔗](#) |
-| B (6:50 - 7:25) | TBD | TBD | [🔗](#) | [🔗](#) |
-| C (6:50 - 7:25) | Alex Wen | TBD | [🔗](#) | [🔗](#) |
-| A (7:25 - 8:00) | TBD | TBD | [🔗](#) | [🔗](#) |
-| B (7:25 - 8:00) | TBD | TBD | [🔗](#) | [🔗](#) |
-| C (7:25 - 8:00) | TBD | TBD | [🔗](#) | [🔗](#) |
+| A (6:15 - 6:50) | Francis Regalado | TBD | [🔗](#) | [🔗](#) |
+| B (6:15 - 6:50) | Yusuf Britton | TBD | [🔗](#) | [🔗](#) |
+| C (6:15 - 6:50) | Ronald Thorpe | TBD | [🔗](#) | [🔗](#) |
+| A (6:50 - 7:25) | Emilia Bravo | TBD | [🔗](#) | [🔗](#) |
+| B (6:50 - 7:25) | Arhaan Keshwani | TBD | [🔗](#) | [🔗](#) |
+| C (6:50 - 7:25) | Gates Godfrey  | TBD | [🔗](#) | [🔗](#) |
+| A (7:25 - 8:00) | Alex Wen | TBD | [🔗](#) | [🔗](#) |
+| B (7:25 - 8:00) | Arhaan Keshwani | TBD | [🔗](#) | [🔗](#) |
+| C (7:25 - 8:00) | Shafan Sugarman | TBD | [🔗](#) | [🔗](#) |
 
 ---
 
