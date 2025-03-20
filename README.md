@@ -2,6 +2,8 @@
 
 🚀 *Welcome to the CodePath Circles GitHub! This README contains the agenda for this month’s CodePath Circles event. Feel free to submit a PR to suggest sessions, update speaker details, or volunteer as a facilitator.*  
 
+### Next Circle: 3/27/2025 (agenda below)
+
 ---
 
 ## **📅 Event Overview**
