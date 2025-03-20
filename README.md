@@ -26,7 +26,7 @@ Check the agenda below and RSVP using [this form](https://share.hsforms.com/1IBh
 ## **🗓️ This Month’s Speaker Schedule**  
 
 | Room (Time Slot) | Speaker Name | Circle Topic |
-|-------------|----------|--------------|----------|--------|
+|-------------|----------|--------------|
 | A (6:15 - 6:50) | Francis Regalado | Building an AI application using Oracle Cloud |
 | B (6:15 - 6:50) | Yusuf Britton | Data Analytics: Data Manipulation and Cleaning Techniques|
 | C (6:15 - 6:50) | Ronald Thorpe | Building Your Own Electric Skateboard |
