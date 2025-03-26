@@ -29,15 +29,15 @@ Check the agenda below and RSVP using [this form](https://share.hsforms.com/1IBh
 
 | Room (Time Slot) | Speaker Name | Circle Topic |
 |-------------|----------|--------------|
-| A (6:15 - 6:50) | Francis Regalado | Building an AI application using Oracle Cloud |
+| A (6:15 - 6:50) | Francis Regalado | Building an enterprise grade AI application using Oracle Cloud |
 | B (6:15 - 6:50) | Yusuf Britton | Data Analytics: Data Manipulation and Cleaning Techniques|
-| C (6:15 - 6:50) | Ronald Thorpe | Building Your Own Electric Skateboard |
-| A (6:50 - 7:25) | Emilia Bravo | Design awesome web apps with Chakra-UI and React |
-| B (6:50 - 7:25) | TBD | TBD |
-| C (6:50 - 7:25) | Gates Godfrey  | The fascinating world of chemical computing |
+| C (6:15 - 6:50) | Ronald Thorpe | How I built my own electric skateboard using embedded software |
+| A (6:50 - 7:25) | Emilia Bravo | How to use Git/Github more professionally on your projects  |
+| B (6:50 - 7:25) | Elaine Yun Ru Chan | Salesforce 101 for CS Engineers and why you should learn the platform in 2025 |
+| C (6:50 - 7:25) | Gates Godfrey  | Silicon and Beyond: Modern Alternatives to Traditional Computer Hardware |
 | A (7:25 - 8:00) | Alex Wen | Using React to Build Websites as Zines |
-| B (7:25 - 8:00) | Arhaan Keshwani | Tools every AI focused engineer need to know |
-| C (7:25 - 8:00) | Shafan Sugarman | A day in the life of a Systems Admin |
+| B (7:25 - 8:00) | Arhaan Keshwani | Tools I used to launch and get funding for 2 AI startups as a CS Student |
+| C (7:25 - 8:00) | Shafan Sugarman | A day in the life of a Sr. Systems Admin |
 
 ---
 
