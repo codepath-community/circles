@@ -30,7 +30,7 @@ Check the agenda below and RSVP using [this form](https://share.hsforms.com/1IBh
 | Room (Time Slot) | Speaker Name | Circle Topic |
 |-------------|----------|--------------|
 | A (6:15 - 6:50) | Francis Regalado | Building an enterprise grade AI application using Oracle Cloud |
-| B (6:15 - 6:50) | Yusuf Britton | Data Analytics: Data Manipulation and Cleaning Techniques|
+| B (6:15 - 6:50) | ~~Yusuf Britton~~ | ~~Data Analytics: Data Manipulation and Cleaning Techniques~~ |
 | C (6:15 - 6:50) | Ronald Thorpe | How I built my own electric skateboard using embedded software |
 | A (6:50 - 7:25) | Emilia Bravo | How to use Git/Github more professionally on your projects  |
 | B (6:50 - 7:25) | Elaine Yun Ru Chan | Salesforce 101 for CS Engineers and why you should learn the platform in 2025 |
